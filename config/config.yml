@@ -1,0 +1,4 @@
+ENV: dev
+DBNAME: test_lute.db
+DATAPATH: /tmp/lute_data
+BACKUP_PATH: /tmp/lute_backup
